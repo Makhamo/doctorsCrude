@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "FK_id": 1,
+        "task": "Design Homepage",
+        "startDate": "2024-10-10",
+        "hoursStart": "00:00",
+        "hoursEnd": "04:00",
+        "status": "completed"
+    },
+    {
+        "id": 2,
+        "FK_id": 2,
+       "task": "Develop API",
+        "startDate": "2024-10-11",
+        "hoursStart": "10:00",
+        "hoursEnd": "18:00",
+        "status":"inProgress"
+    },
+    {
+        "id": 3,
+        "FK_id": 3,
+        "task": "UI/UX Research",
+        "startDate": "2024-10-10",
+        "hoursStart": "09:00",
+        "hoursEnd": "17:00",
+        "status":"pending"
+    },
+    {
+        "id": 4,
+        "FK_id": 4,
+        "task": "Database Optimization",
+        "startDate": "2024-10-10",
+        "hoursStart": "08:00",
+        "hoursEnd": "16:00",
+        "status":"prospond"
+    },
+    {
+        "id": 5,
+        "FK_id": 5,
+        "task": "Write Documentation",
+        "startDate": "2024-10-10",
+        "hoursStart": "11:00",
+        "hoursEnd": "15:00",
+        "status":"postponed"
+    },
+    {
+        "id": 6,
+        "FK_id": 6,
+        "task": "Conduct Testing",
+        "startDate": "2024-10-10",
+        "hoursStart": "14:00",
+        "hoursEnd": "18:00",
+        "status":"postponed"
+    },
+    {
+        "id": 7,
+        "FK_id": 7,
+        "task": "Client Feedback Meeting",
+        "startDate": "2024-10-10",
+        "hoursStart": "15:00",
+        "hoursEnd": "17:00",
+        "status":"postponed"
+    },
+    {
+        "id": 8,
+        "FK_id": 8,
+       "task": "Deployment Planning",
+        "startDate": "2024-10-10",
+        "hoursStart": "12:00",
+        "hoursEnd": "20:00",
+        "status":"postponed"
+    },
+    {
+        "id": 9,
+        "FK_id": 9,
+        "task": "Project Review",
+        "startDate": "2024-10-10",
+        "hoursStart": "09:00",
+        "hoursEnd": "17:00",
+        "status":"postponed",
+        "description": "Conduct user testing and gather feedback."
+    },
+    {
+        "id": 10,
+        "FK_id": 10,
+        "task": "Marketing Strategy Meeting",
+        "startDate": "2024-10-09",
+        "hoursStart": "10:00",
+        "hoursEnd": "15:00",
+        "status":"pending"
+    },
+    {
+        "id": 11,
+        "FK_id": 1,
+       "task": "Marketing Strategy Meeting",
+        "startDate": "2024-10-11",
+        "hoursStart": "10:00",
+        "hoursEnd": "15:00",
+        "status":"pending"
+    },
+    {
+        "id": 12,
+        "FK_id": 10,
+       "task": "Marketing Strategy Meeting",
+        "startDate": "2024-10-09",
+        "hoursStart": "16:00",
+        "hoursEnd": "22:00",
+        "status":"pending"
+    },
+    {
+        "id": 13,
+        "FK_id": 10,
+        "task": "Marketing Strategy Meeting",
+        "startDate": "2024-10-13",
+        "hoursStart": "06:00",
+        "hoursEnd": "11:00",
+        "status":"pending"
+    }
+
+]

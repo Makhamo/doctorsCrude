@@ -1,0 +1,353 @@
+[
+    {
+        "id": 1,
+        "productName": "Albany",
+        "size": {
+            "type": "gram",
+            "units": 700
+        },
+        "price": 16.99,
+        "currency": "ZAR",
+        "stockQuantity": 100,
+        "taxPercent": 2,
+        "categories": ["dairy"],
+        "specials": {
+            "discountPercent": 6,
+            "startDate": "2022-08-16T00:00:00Z",
+            "isOnSpecial": true
+        },
+        "images": {
+            "profilePicture": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQU8Vuc50lJL8i6WYuPExjBHSgkP2V9XDREJOnp3AmHb8Sbx4KxrYaLpbmtVyqdH898sJUv1jyA8RfZCjIPFer4xZ_gNi2-DJUjhy6N1zXMd7X2uONo9YSL&usqp=CAE",
+            "barcode": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215",
+            "barcodePack": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215"
+        },
+        "status": {
+            "isActive": true,
+            "createdAt": "2022-08-15T00:00:00Z",
+            "createdBy": "Dr Williams",
+            "deletedAt": null,
+            "deletedBy": null
+        },
+        "ratings": {
+            "starRating": 4
+        },
+        "packaging": {
+            "packSize": 6,
+            "packPrice": 370
+        },
+        "barcode": {
+            "unitBarcode": "1222233",
+            "packBarcode": "1222231"
+        },
+        "allowCredit": true,
+        "expiryDate": "2025-08-15T00:00:00Z"
+    },
+
+    {
+        "id": 2,
+        "productName": "Lays",
+        "size": {
+            "type": "gram",
+            "units": 120
+        },
+        "price": 23.99,
+        "currency": "ZAR",
+        "stockQuantity": 10,
+        "taxPercent": 2,
+        "categories": ["snack"],
+        "specials": {
+            "discountPercent": 4,
+            "startDate": "2022-08-16T00:00:00Z",
+            "isOnSpecial": true
+        },
+        "images": {
+            "profilePicture": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTf2mNHRDjMIhDJpZ1Iv7ecnCijSN3gP7XVN2sDNJUK-ceciQ51P8jrPaYnTruoqm2tEUx1hNF2MYAO6Y9J-DCNVFk0k-YnDd5hWLZAcmyXQQxCXr6WDdFN&usqp=CAE",
+            "barcode": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215",
+            "barcodePack": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215"
+        },
+        "status": {
+            "isActive": true,
+            "createdAt": "2022-08-15T00:00:00Z",
+            "createdBy": "Dr Williams",
+            "deletedAt": null,
+            "deletedBy": null
+        },
+        "ratings": {
+            "starRating": 4
+        },
+        "packaging": {
+            "packSize": 6,
+            "packPrice": 370
+        },
+        "barcode": {
+            "unitBarcode": "1222233",
+            "packBarcode": "1222231"
+        },
+        "allowCredit": true,
+        "expiryDate": "2025-08-15T00:00:00Z"
+    },
+
+    {
+        "id": 3,
+        "productName": "Good Hope Ma Soya Kosher",
+        "size": {
+            "type": "litre",
+            "units": 1
+        },
+        "price": 33.99,
+        "currency": "ZAR",
+        "stockQuantity": 12,
+        "taxPercent": 2,
+        "categories": ["dairy"],
+        "specials": {
+            "discountPercent": 4,
+            "startDate": "2022-08-16T00:00:00Z",
+            "isOnSpecial": false
+        },
+        "images": {
+            "profilePicture": "https://www.dischem.co.za/media/catalog/product/cache/ba2f46a32dd67d89a12dc7901fe9d828/6/0/6007359002727.jpg",
+            "barcode": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215",
+            "barcodePack": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215"
+        },
+        "status": {
+            "isActive": true,
+            "createdAt": "2022-08-15T00:00:00Z",
+            "createdBy": "Dr Williams",
+            "deletedAt": null,
+            "deletedBy": null
+        },
+        "ratings": {
+            "starRating": 4
+        },
+        "packaging": {
+            "packSize": 6,
+            "packPrice": 370
+        },
+        "barcode": {
+            "unitBarcode": "1222233",
+            "packBarcode": "1222231"
+        },
+        "allowCredit": true,
+        "expiryDate": "2025-08-15T00:00:00Z"
+    },
+
+    {
+        "id": 4,
+        "productName": "Bokomo Weet-bix Biscuit",
+        "size": {
+            "type": "gram",
+            "units": 200
+        },
+        "price": 39.99,
+        "currency": "ZAR",
+        "stockQuantity": 16,
+        "taxPercent": 2,
+        "categories": ["snack"],
+        "specials": {
+            "discountPercent": 7,
+            "startDate": "2022-08-16T00:00:00Z",
+            "isOnSpecial": true
+        },
+        "images": {
+            "profilePicture": "https://www.dischem.co.za/media/catalog/product/cache/ba2f46a32dd67d89a12dc7901fe9d828/6/0/6001052012939.jpg",
+            "barcode": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215",
+            "barcodePack": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215"
+        },
+        "status": {
+            "isActive": true,
+            "createdAt": "2022-08-15T00:00:00Z",
+            "createdBy": "Dr Williams",
+            "deletedAt": null,
+            "deletedBy": null
+        },
+        "ratings": {
+            "starRating": 4
+        },
+        "packaging": {
+            "packSize": 6,
+            "packPrice": 370
+        },
+        "barcode": {
+            "unitBarcode": "1222233",
+            "packBarcode": "1222231"
+        },
+        "allowCredit": true,
+        "expiryDate": "2025-08-15T00:00:00Z"
+    },
+
+    {
+        "id": 5,
+        "productName": "Replace Classic Vanilla",
+        "size": {
+            "type": "gram",
+            "units": 850
+        },
+        "price": 274.99,
+        "currency": "ZAR",
+        "stockQuantity": 10,
+        "taxPercent": 2,
+        "categories": ["snack"],
+        "specials": {
+            "discountPercent": 7,
+            "startDate": "2022-08-16T00:00:00Z",
+            "isOnSpecial": true
+        },
+        "images": {
+            "profilePicture": "https://www.dischem.co.za/media/catalog/product/cache/ba2f46a32dd67d89a12dc7901fe9d828/6/5/650991cb1d430_615c813aa0ec5_6009710511176.jpg",
+            "barcode": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215",
+            "barcodePack": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215"
+        },
+        "status": {
+            "isActive": true,
+            "createdAt": "2022-08-15T00:00:00Z",
+            "createdBy": "Dr Williams",
+            "deletedAt": null,
+            "deletedBy": null
+        },
+        "ratings": {
+            "starRating": 4
+        },
+        "packaging": {
+            "packSize": 6,
+            "packPrice": 370
+        },
+        "barcode": {
+            "unitBarcode": "1222233",
+            "packBarcode": "1222231"
+        },
+        "allowCredit": true,
+        "expiryDate": "2025-08-15T00:00:00Z"
+    },
+
+    {
+        "id": 6,
+        "productName": "Replace Classic Vanilla",
+        "size": {
+            "type": "gram",
+            "units": 850
+        },
+        "price": 274.99,
+        "currency": "ZAR",
+        "stockQuantity": 10,
+        "taxPercent": 2,
+        "categories": ["snack"],
+        "specials": {
+            "discountPercent": 7,
+            "startDate": "2022-08-16T00:00:00Z",
+            "isOnSpecial": true
+        },
+        "images": {
+            "profilePicture": "https://flybuy.in/wp-content/uploads/2020/08/kur.jpg",
+            "barcode": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215",
+            "barcodePack": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215"
+        },
+        "status": {
+            "isActive": true,
+            "createdAt": "2022-08-15T00:00:00Z",
+            "createdBy": "Dr Williams",
+            "deletedAt": null,
+            "deletedBy": null
+        },
+        "ratings": {
+            "starRating": 4
+        },
+        "packaging": {
+            "packSize": 6,
+            "packPrice": 370
+        },
+        "barcode": {
+            "unitBarcode": "1222233",
+            "packBarcode": "1222231"
+        },
+        "allowCredit": true,
+        "expiryDate": "2025-08-15T00:00:00Z"
+    },
+
+    {
+        "id": 7,
+        "productName": "Replace Classic Vanilla",
+        "size": {
+            "type": "gram",
+            "units": 850
+        },
+        "price": 274.99,
+        "currency": "ZAR",
+        "stockQuantity": 10,
+        "taxPercent": 2,
+        "categories": ["snack"],
+        "specials": {
+            "discountPercent": 7,
+            "startDate": "2022-08-16T00:00:00Z",
+            "isOnSpecial": true
+        },
+        "images": {
+            "profilePicture": "https://stapleseed.com/cdn/shop/files/a38a6144-37ed-432a-aad9-56da88214f9d.27a8e423d4f03e353b74398fb192c3e9_610x_crop_center.webp?v=1721138441",
+            "barcode": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215",
+            "barcodePack": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215"
+        },
+        "status": {
+            "isActive": true,
+            "createdAt": "2022-08-15T00:00:00Z",
+            "createdBy": "Dr Williams",
+            "deletedAt": null,
+            "deletedBy": null
+        },
+        "ratings": {
+            "starRating": 4
+        },
+        "packaging": {
+            "packSize": 6,
+            "packPrice": 370
+        },
+        "barcode": {
+            "unitBarcode": "1222233",
+            "packBarcode": "1222231"
+        },
+        "allowCredit": true,
+        "expiryDate": "2025-08-15T00:00:00Z"
+    },
+    {
+        "id": 7,
+        "productName": "Replace Classic Vanilla",
+        "size": {
+            "type": "gram",
+            "units": 850
+        },
+        "price": 274.99,
+        "currency": "ZAR",
+        "stockQuantity": 10,
+        "taxPercent": 2,
+        "categories": ["snack"],
+        "specials": {
+            "discountPercent": 7,
+            "startDate": "2022-08-16T00:00:00Z",
+            "isOnSpecial": true
+        },
+        "images": {
+            "profilePicture": "https://stapleseed.com/cdn/shop/files/a38a6144-37ed-432a-aad9-56da88214f9d.27a8e423d4f03e353b74398fb192c3e9_610x_crop_center.webp?v=1721138441",
+            "barcode": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215",
+            "barcodePack": "https://www.thermallabels.com.au/assets/thumbL/4535MP-0.jpg?20200805095215"
+        },
+        "status": {
+            "isActive": true,
+            "createdAt": "2022-08-15T00:00:00Z",
+            "createdBy": "Dr Williams",
+            "deletedAt": null,
+            "deletedBy": null
+        },
+        "ratings": {
+            "starRating": 4
+        },
+        "packaging": {
+            "packSize": 6,
+            "packPrice": 370
+        },
+        "barcode": {
+            "unitBarcode": "1222233",
+            "packBarcode": "1222231"
+        },
+        "allowCredit": true,
+        "expiryDate": "2025-08-15T00:00:00Z"
+    }
+    
+]
